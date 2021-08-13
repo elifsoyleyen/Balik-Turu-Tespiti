@@ -1,2 +1,2 @@
-# Bal-k-T-r-Tespiti
+# Balik Turu Tespiti
 Derin Öğrenme ile Balıkların Türünü Tespit Etme
